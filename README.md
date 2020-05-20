@@ -1,2 +1,2 @@
-# hellow word
+# hello, word
  Meu Primeiro Repositório
